@@ -1,4 +1,4 @@
-porquejant
+test-repository
 ==========
 
-Per fer proves
+this repository is created for testing purpose
